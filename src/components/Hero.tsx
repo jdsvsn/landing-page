@@ -14,7 +14,7 @@ export default function Hero() {
             className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-zinc-100 border border-zinc-200 text-xs font-semibold text-zinc-600 mb-8"
           >
             <Sparkles className="w-3 h-3 text-emerald-500" />
-            <span>Your Company Tagline Here</span>
+            <span>Hello</span>
           </motion.div>
           
           <motion.h1
